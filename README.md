@@ -3,7 +3,7 @@
 | Команда       |
 | ------------- |
 | [Пухкало Владислава](https://github.com/VlPukhkalo)    |
-| [Пиненова Таисия](https://github.com/tasia2001)    |
+| [Пименова Таисия](https://github.com/tasia2001)    |
 | [Кущенко Иван](https://github.com/Veron28)  |
 
 
